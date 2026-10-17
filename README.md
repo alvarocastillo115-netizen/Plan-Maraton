@@ -5,7 +5,7 @@ Aplicación web para seguir un plan de 17 semanas que prepara dos carreras:
 - **Ultravolcanes 21K** (trail), domingo 24 de enero de 2027. Carrera B, para disfrutar.
 - **Maratón El Salvador** (asfalto), domingo 14 de febrero de 2027. Carrera A.
 
-El plan empieza el lunes 19 de octubre de 2026 e incluye 5 días de carrera y 4 días de fuerza por semana para mantener la masa muscular de brazos y abdomen. El plan completo, día por día, está en [PLAN.md](PLAN.md).
+El plan empieza el lunes 19 de octubre de 2026 e incluye 5 días de carrera, 3 días de fuerza y 2 días de descanso total por semana para mantener la masa muscular de brazos y abdomen. El plan completo, día por día, está en [PLAN.md](PLAN.md).
 
 ## Funciones
 

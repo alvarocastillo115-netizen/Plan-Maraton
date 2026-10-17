@@ -17,7 +17,7 @@ export const GUIDE = [
     id: "terreno",
     title: "Asfalto y trail: la combinación",
     items: [
-      { t: "5 días de carrera, 2 de descanso", d: "Lunes y sábado sin correr. Martes calidad en asfalto, miércoles fácil, jueves trail en El Espino, viernes fácil y domingo largo en asfalto." },
+      { t: "5 días de carrera, 2 de descanso total", d: "Lunes y sábado libres: sin correr ni gimnasio. Martes calidad en asfalto, miércoles fácil, jueves trail en El Espino, viernes fácil y domingo largo en asfalto. La fuerza va en martes, miércoles y viernes." },
       { t: "Trail ≈ 15 % del volumen", d: "Un día de trail por semana (jueves) hasta Ultravolcanes. Para un maratón, las sesiones clave y los largos deben ir en asfalto (especificidad); el trail aporta fuerza de subida, técnica de bajada y variedad sin comprometer el resto." },
       { t: "Después de Ultravolcanes, 100 % asfalto", d: "Las últimas 3 semanas son solo asfalto: el cuerpo tiene que llegar adaptado al impacto y al ritmo exacto del maratón." },
       { t: "Bajadas = trabajo activo", d: "Paso corto, cadencia alta, mirada 3-4 m adelante. El cuádriceps del km 18 de Ultravolcanes se salva en los jueves de bajada y en el step-down excéntrico." },
@@ -38,7 +38,7 @@ export const GUIDE = [
     items: [
       { t: "Mantener masa con poco volumen", d: "Según la revisión de Spiering (2021), la fuerza y la masa se mantienen con poco volumen si la carga se mantiene. En descarga y taper bajan las series, nunca el peso del cinturón." },
       { t: "La interferencia es menor arriba", d: "Correr interfiere sobre todo con la fuerza de piernas. El tren superior apenas se ve afectado, por eso puedes seguir progresando en dominadas y fondos lastrados." },
-      { t: "Separar de la carrera intensa", d: "La fuerza va en días sin calidad (lunes) o 6 h o más después de correr. La sesión de piernas va el martes en la tarde: día duro duro, día fácil fácil." },
+      { t: "Separar de la carrera intensa", d: "La fuerza va 6 h o más después de correr cuando se puede. Piernas y core A el martes en la tarde (día duro duro, día fácil fácil); tren superior el miércoles y el viernes, después de rodajes fáciles." },
       { t: "Piernas pesadas 1 vez por semana", d: "El meta-análisis de Eihara (2022) encontró que la fuerza pesada mejora la economía de carrera más que la pliometría. Se deja de hacer en la semana de Ultravolcanes y en la última semana." },
       { t: `Proteína: ${PROTEIN.min}-${PROTEIN.max} g al día`, d: `1.6-2.0 g por kg (${ATHLETE.weightKg} kg). Con 3 comidas grandes: ~35-45 g de proteína en cada una y un snack proteico después de entrenar (yogur griego, batido, huevos).` },
     ],

@@ -71,10 +71,30 @@ describe("integridad de sesiones", () => {
     }
   });
 
-  it("2 días sin correr por semana (lunes y sábado), salvo la semana de carrera", () => {
+  it("2 días de descanso total por semana: lunes y sábado (semana 17: lunes y viernes)", () => {
     for (const w of WEEKS) {
-      expect(w.days.mon.some((s) => s.km > 0)).toBe(false);
-      if (w.n !== 17) expect(w.days.sat.some((s) => s.km > 0)).toBe(false);
+      const off = DAY_KEYS.filter((d) => w.days[d].every((s) => s.kind === "rest"));
+      expect(off, `semana ${w.n}`).toEqual(w.n === 17 ? ["mon", "fri"] : ["mon", "sat"]);
+    }
+  });
+
+  it("la intensidad se mantiene: 5 días de carrera y las 5 sesiones de fuerza de cada semana", () => {
+    for (const w of WEEKS) {
+      const runDays = DAY_KEYS.filter((d) => w.days[d].some((s) => s.km > 0 && !s.optional));
+      if (w.n !== 11) expect(runDays, `semana ${w.n}`).toHaveLength(5);
+      const strength = allSessions(w).filter((s) => s.kind === "strength").map((s) => s.routine);
+      expect(strength).toContain("upperA");
+      if (w.n < 17) {
+        expect(strength).toEqual(expect.arrayContaining(["upperA", "upperB", "coreA", "coreB"]));
+      }
+    }
+  });
+
+  it("la fuerza nunca cae en días de descanso ni en días de trail con carga", () => {
+    for (const { s, d, w } of flat) {
+      if (s.kind !== "strength") continue;
+      expect(["mon", "sat"], `${s.id}`).not.toContain(d);
+      if (d === "thu") expect(w.days.thu[0].intensity, `${s.id}`).toBe("E");
     }
   });
 

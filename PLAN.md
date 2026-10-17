@@ -28,9 +28,9 @@
 
 | Día | Sesión |
 |---|---|
-| Lunes | Sin correr · Tren superior A + Core A |
-| Martes | Calidad en asfalto · Piernas en la tarde |
-| Miércoles | Rodaje fácil · Core B |
+| Lunes | Descanso total |
+| Martes | Calidad en asfalto · Piernas + Core A en la tarde |
+| Miércoles | Rodaje fácil · Tren superior A + Core B |
 | Jueves | Trail en El Espino (cuestas, bajadas o simulación) |
 | Viernes | Rodaje fácil + strides · Tren superior B |
 | Sábado | Descanso total |
@@ -64,15 +64,16 @@
 
 **Regreso y rutina** · 37 km · 200 m D+
 
-> Semana de reentrada: todo controlado. El objetivo es instalar la rutina de 5 días de carrera y 4 días de fuerza, no ganar forma. Si en las últimas 3 semanas corriste menos de 25 km por semana, quita 1-2 km a cada rodaje.
+> Semana de reentrada: todo controlado. El objetivo es instalar la rutina de 5 días de carrera, 3 de fuerza y 2 de descanso total, no ganar forma. Si en las últimas 3 semanas corriste menos de 25 km por semana, quita 1-2 km a cada rodaje.
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 19 oct | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 19 oct | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 19 oct | Descanso total |  |
 | Martes 20 oct | Fartlek 8 × 1' fuerte / 1' suave (7 km) | 8 repeticiones de 1 minuto fuerte (RPE 8, cerca de 4:47/km) por 1 minuto de trote suave. La primera y la última repetición deben salir al mismo ritmo. Enfriamiento: 2 km muy suaves. |
 | Martes 20 oct | Piernas · Adaptación · tarde | Sentadilla búlgara con mancuernas 3×10 por lado; Peso muerto rumano con mancuernas 3×10; Step-down excéntrico 2×8 por lado; Elevación de talones a una pierna 3×15 por lado |
+| Martes 20 oct | Core A · Estabilidad para correr · tarde | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 21 oct | 6 km fáciles (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 21 oct | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 21 oct | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 22 oct | 7 km El Espino · ~200 m D+ · cuestas cortas (7 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Dentro del recorrido: 5 cuestas de 45 s en una pendiente fuerte (8-15 %) a RPE 8. Recuperación: baja caminando o trotando muy suave. Arranca la siguiente cuando respires casi normal. |
 | Viernes 23 oct | 5 km fáciles + 6 strides (5 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -86,11 +87,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 26 oct | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 26 oct | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 26 oct | Descanso total |  |
 | Martes 27 oct | 4 × 6 min a ritmo umbral (T) (8 km) | 4 × 6 min a 5:12/km (pulso de referencia 156-166 lpm). Recuperación: 2 min de trote suave. RPE 7 de 10: "cómodamente duro". Puedes decir frases cortas, no conversar. Todas las repeticiones al mismo ritmo. Si la última sale más de 5 s/km lenta, empezaste rápido. Enfriamiento: 2 km muy suaves. |
 | Martes 27 oct | Piernas · Adaptación · tarde | Sentadilla búlgara con mancuernas 3×10 por lado; Peso muerto rumano con mancuernas 3×10; Step-down excéntrico 2×8 por lado; Elevación de talones a una pierna 3×15 por lado |
+| Martes 27 oct | Core A · Estabilidad para correr · tarde | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 28 oct | 7 km fáciles (7 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 28 oct | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 28 oct | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 29 oct | 8 km El Espino · ~250 m D+ · cuestas (8 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Dentro del recorrido: 6 cuestas de 60-90 s (5-8 %) a RPE 8, como si empujaras los últimos 400 m de una carrera. Pasos cortos, torso inclinado desde el tobillo, brazos activos. Baja trotando muy suave. |
 | Viernes 30 oct | 5 km fáciles + 6 strides (5 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -104,11 +106,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 2 nov | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 2 nov | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 2 nov | Descanso total |  |
 | Martes 3 nov | 3 × 10 min a ritmo umbral (T) (10 km) | 3 × 10 min a 5:12/km (pulso de referencia 156-166 lpm). Recuperación: 2 min de trote suave. RPE 7 de 10: "cómodamente duro". Puedes decir frases cortas, no conversar. Todas las repeticiones al mismo ritmo. Si la última sale más de 5 s/km lenta, empezaste rápido. Enfriamiento: 2 km muy suaves. |
 | Martes 3 nov | Piernas · Adaptación · tarde | Sentadilla búlgara con mancuernas 3×10 por lado; Peso muerto rumano con mancuernas 3×10; Step-down excéntrico 2×8 por lado; Elevación de talones a una pierna 3×15 por lado |
+| Martes 3 nov | Core A · Estabilidad para correr · tarde | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 4 nov | 8 km fáciles (8 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 4 nov | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 4 nov | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 5 nov | 9 km El Espino · ~300 m D+ · bajadas técnicas (9 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Dentro del recorrido: 4 bajadas técnicas de 2-3 min a ritmo decidido (no frenando), subiendo caminando entre cada una. Técnica: cadencia alta, pasos cortos, mirada 3-4 m adelante, brazos abiertos como estabilizadores. Es entrenamiento excéntrico para el cuádriceps: puede dejar agujetas 1-2 días. Por eso el viernes es fácil. |
 | Viernes 6 nov | 6 km fáciles + 6 strides (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -124,13 +127,14 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 9 nov | Tren superior A · Fuerza · descarga | Dominadas lastradas (agarre prono) 3×5-6; Fondos lastrados 3×6-8; Press de hombro con mancuernas 2×8-10; Remo a una mano con mancuerna 2×8-10 por lado; Curl de bíceps con mancuernas 2×8-10; Elevaciones laterales 1×12-15 |
-| Lunes 9 nov | Core A · Estabilidad para correr · descarga | Dead bug 2×8 por lado; Plancha lateral 2×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 2×30-40 m por lado; Bird dog con pausa 2×8 por lado |
+| Lunes 9 nov | Descanso total |  |
 | Martes 10 nov | PRUEBA 5K contrarreloj (9.5 km) | 5K al máximo esfuerzo SOSTENIBLE en un recorrido plano y medido (pista, avenida o un circuito que conozcas). Primer km 3-5 s más lento que tu ritmo objetivo. Luego estabiliza y aprieta en el último 20 %. Enfriamiento: 2 km muy suaves. |
+| Martes 10 nov | Core A · Estabilidad para correr · descarga | Dead bug 2×8 por lado; Plancha lateral 2×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 2×30-40 m por lado; Bird dog con pausa 2×8 por lado |
 | Miércoles 11 nov | 6 km muy suaves · recuperación (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. Pulso por debajo de <126 lpm si puedes; si no, el extremo bajo de 126-142 lpm. |
+| Miércoles 11 nov | Tren superior A · Fuerza · descarga | Dominadas lastradas (agarre prono) 3×5-6; Fondos lastrados 3×6-8; Press de hombro con mancuernas 2×8-10; Remo a una mano con mancuerna 2×8-10 por lado; Curl de bíceps con mancuernas 2×8-10; Elevaciones laterales 1×12-15 |
 | Miércoles 11 nov | Core B · Abdomen · descarga | Elevaciones de piernas colgado 2×8-12; Hollow hold 2×20-40 s; Plancha Copenhague 2×15-25 s por lado; Giros rusos con mancuerna 2×20 totales |
-| Miércoles 11 nov | Piernas · Ligera · tarde | Sentadilla búlgara 2×6 por lado; Peso muerto rumano 2×6; Elevación de talones 2×12 por lado |
 | Jueves 12 nov | 7 km El Espino · ~200 m D+ · suave (7 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Todo a ritmo cómodo por pulso (126-142 lpm). Camina las cuestas fuertes. Hoy solo se acumula tiempo en el terreno. |
+| Jueves 12 nov | Piernas · Ligera · tarde | Sentadilla búlgara 2×6 por lado; Peso muerto rumano 2×6; Elevación de talones 2×12 por lado |
 | Viernes 13 nov | 5 km fáciles + 6 strides (5 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
 | Viernes 13 nov | Tren superior B · Volumen + abdomen · descarga | Dominadas supinas (chin-ups) 2×8-10; Fondos con bajada lenta 2×10-15; Remo inclinado con dos mancuernas 2×10-12; Elevaciones laterales 2×15; Pájaros (deltoide posterior) 2×15; Curl martillo 2×10-12; Elevaciones de piernas colgado 2×10-12; Crunch con mancuerna en el pecho 2×12-15 |
 | Sábado 14 nov | Descanso total |  |
@@ -142,11 +146,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 16 nov | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 16 nov | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 16 nov | Descanso total |  |
 | Martes 17 nov | 5 × 1 km a ritmo de intervalos (I) (11 km) | 5 × 1 km a 4:47/km (al final de cada repetición el pulso debería tocar 166-181 lpm). Recuperación: 2:30 de trote muy suave. Si en la repetición 3-4 el ritmo cae más de 5-8 s, ajusta desde la siguiente. Enfriamiento: 2 km muy suaves. |
 | Martes 17 nov | Piernas · Fuerza pesada · tarde | Sentadilla búlgara con mancuernas 4×6 por lado; Peso muerto rumano (a dos o a una pierna) 4×6-8; Step-down excéntrico 3×8 por lado; Elevación de talones a una pierna con mancuerna 3×10-12 por lado; Saltos pogo (tobillos rígidos) 3×20 |
+| Martes 17 nov | Core A · Estabilidad para correr · tarde | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 18 nov | 10 km fáciles (10 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 18 nov | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 18 nov | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 19 nov | 10 km El Espino · ~450 m D+ · cuestas (10 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Dentro del recorrido: 6 cuestas de 60-90 s (5-8 %) a RPE 8, como si empujaras los últimos 400 m de una carrera. Pasos cortos, torso inclinado desde el tobillo, brazos activos. Baja trotando muy suave. |
 | Viernes 20 nov | 6 km fáciles + 6 strides (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -162,11 +167,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 23 nov | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 23 nov | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 23 nov | Descanso total |  |
 | Martes 24 nov | 3 × 2 km a ritmo umbral (T) (12 km) | 3 × 2 km a 5:12/km (pulso de referencia 156-166 lpm). Recuperación: 2 min de trote suave. RPE 7 de 10: "cómodamente duro". Puedes decir frases cortas, no conversar. Todas las repeticiones al mismo ritmo. Si la última sale más de 5 s/km lenta, empezaste rápido. Enfriamiento: 2 km muy suaves. |
 | Martes 24 nov | Piernas · Fuerza pesada · tarde | Sentadilla búlgara con mancuernas 4×6 por lado; Peso muerto rumano (a dos o a una pierna) 4×6-8; Step-down excéntrico 3×8 por lado; Elevación de talones a una pierna con mancuerna 3×10-12 por lado; Saltos pogo (tobillos rígidos) 3×20 |
+| Martes 24 nov | Core A · Estabilidad para correr · tarde | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 25 nov | 10 km fáciles (10 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 25 nov | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 25 nov | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 26 nov | 11 km El Espino · ~500 m D+ · bajadas técnicas (11 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Dentro del recorrido: 5 bajadas técnicas de 2-3 min a ritmo decidido (no frenando), subiendo caminando entre cada una. Técnica: cadencia alta, pasos cortos, mirada 3-4 m adelante, brazos abiertos como estabilizadores. Es entrenamiento excéntrico para el cuádriceps: puede dejar agujetas 1-2 días. Por eso el viernes es fácil. |
 | Viernes 27 nov | 6 km fáciles + 6 strides (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -180,11 +186,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 30 nov | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 30 nov | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 30 nov | Descanso total |  |
 | Martes 1 dic | 4 × 1.6 km a ritmo umbral (T) (12 km) | 4 × 1.6 km a 5:12/km (pulso de referencia 156-166 lpm). Recuperación: 1 min de trote suave. RPE 7 de 10: "cómodamente duro". Puedes decir frases cortas, no conversar. Todas las repeticiones al mismo ritmo. Si la última sale más de 5 s/km lenta, empezaste rápido. Enfriamiento: 2 km muy suaves. |
 | Martes 1 dic | Piernas · Fuerza pesada · tarde | Sentadilla búlgara con mancuernas 4×6 por lado; Peso muerto rumano (a dos o a una pierna) 4×6-8; Step-down excéntrico 3×8 por lado; Elevación de talones a una pierna con mancuerna 3×10-12 por lado; Saltos pogo (tobillos rígidos) 3×20 |
+| Martes 1 dic | Core A · Estabilidad para correr · tarde | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 2 dic | 11 km fáciles (11 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 2 dic | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 2 dic | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 3 dic | 11 km El Espino · ~550 m D+ · subidas largas (11 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Dentro del recorrido: 4 subidas sostenidas de 3-4 min a RPE 7 (zona 156-166 lpm baja). Si la pendiente pasa de 15 %, alterna 1 min corriendo y 1 min de power hike fuerte con manos en los muslos. |
 | Viernes 4 dic | 6 km fáciles + 6 strides (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -200,11 +207,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 7 dic | Tren superior A · Fuerza · descarga | Dominadas lastradas (agarre prono) 3×5-6; Fondos lastrados 3×6-8; Press de hombro con mancuernas 2×8-10; Remo a una mano con mancuerna 2×8-10 por lado; Curl de bíceps con mancuernas 2×8-10; Elevaciones laterales 1×12-15 |
-| Lunes 7 dic | Core A · Estabilidad para correr · descarga | Dead bug 2×8 por lado; Plancha lateral 2×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 2×30-40 m por lado; Bird dog con pausa 2×8 por lado |
+| Lunes 7 dic | Descanso total |  |
 | Martes 8 dic | 5 × 3 min a ritmo umbral (T) (8 km) | 5 × 3 min a 5:12/km (pulso de referencia 156-166 lpm). Recuperación: 2 min de trote suave. RPE 7 de 10: "cómodamente duro". Puedes decir frases cortas, no conversar. Todas las repeticiones al mismo ritmo. Si la última sale más de 5 s/km lenta, empezaste rápido. Enfriamiento: 2 km muy suaves. |
 | Martes 8 dic | Piernas · Ligera · tarde | Sentadilla búlgara 2×6 por lado; Peso muerto rumano 2×6; Elevación de talones 2×12 por lado |
+| Martes 8 dic | Core A · Estabilidad para correr · descarga · tarde | Dead bug 2×8 por lado; Plancha lateral 2×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 2×30-40 m por lado; Bird dog con pausa 2×8 por lado |
 | Miércoles 9 dic | 8 km fáciles (8 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 9 dic | Tren superior A · Fuerza · descarga | Dominadas lastradas (agarre prono) 3×5-6; Fondos lastrados 3×6-8; Press de hombro con mancuernas 2×8-10; Remo a una mano con mancuerna 2×8-10 por lado; Curl de bíceps con mancuernas 2×8-10; Elevaciones laterales 1×12-15 |
 | Miércoles 9 dic | Core B · Abdomen · descarga | Elevaciones de piernas colgado 2×8-12; Hollow hold 2×20-40 s; Plancha Copenhague 2×15-25 s por lado; Giros rusos con mancuerna 2×20 totales |
 | Jueves 10 dic | 8 km El Espino · ~300 m D+ · suave (8 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Todo a ritmo cómodo por pulso (126-142 lpm). Camina las cuestas fuertes. Hoy solo se acumula tiempo en el terreno. |
 | Viernes 11 dic | 5 km fáciles + 6 strides (5 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -218,11 +226,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 14 dic | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 14 dic | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 14 dic | Descanso total |  |
 | Martes 15 dic | 2 × 4 km a ritmo maratón (14 km) | 2 × 4 km a 5:34/km con 1 km suave entre bloques. Pulso de referencia a ritmo M: 142-156 lpm. Con calor, manda el pulso. Enfriamiento: 1-2 km suaves. |
 | Martes 15 dic | Piernas · Fuerza pesada · tarde | Sentadilla búlgara con mancuernas 4×6 por lado; Peso muerto rumano (a dos o a una pierna) 4×6-8; Step-down excéntrico 3×8 por lado; Elevación de talones a una pierna con mancuerna 3×10-12 por lado; Saltos pogo (tobillos rígidos) 3×20 |
+| Martes 15 dic | Core A · Estabilidad para correr · tarde | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 16 dic | 10 km fáciles (10 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 16 dic | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 16 dic | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 17 dic | 11 km El Espino · ~600 m D+ · subidas largas (11 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Dentro del recorrido: 5 subidas sostenidas de 3-4 min a RPE 7 (zona 156-166 lpm baja). Si la pendiente pasa de 15 %, alterna 1 min corriendo y 1 min de power hike fuerte con manos en los muslos. |
 | Viernes 18 dic | 6 km fáciles + 6 strides (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -238,11 +247,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 21 dic | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 21 dic | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 21 dic | Descanso total |  |
 | Martes 22 dic | 3 × 2.5 km a ritmo umbral (T) (13 km) | 3 × 2.5 km a 5:12/km (pulso de referencia 156-166 lpm). Recuperación: 2 min de trote suave. RPE 7 de 10: "cómodamente duro". Puedes decir frases cortas, no conversar. Todas las repeticiones al mismo ritmo. Si la última sale más de 5 s/km lenta, empezaste rápido. Enfriamiento: 2 km muy suaves. |
 | Martes 22 dic | Piernas · Fuerza pesada · tarde | Sentadilla búlgara con mancuernas 4×6 por lado; Peso muerto rumano (a dos o a una pierna) 4×6-8; Step-down excéntrico 3×8 por lado; Elevación de talones a una pierna con mancuerna 3×10-12 por lado; Saltos pogo (tobillos rígidos) 3×20 |
+| Martes 22 dic | Core A · Estabilidad para correr · tarde | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 23 dic | 10 km fáciles (10 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 23 dic | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 23 dic | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 24 dic | 12 km El Espino · ~700 m D+ · simulación de carrera (12 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Simulación de Ultravolcanes (21 km con ~1,200 m D+, unos 57 m por km): repite la subida más larga de El Espino las veces necesarias para sumar el desnivel de hoy. Sube a esfuerzo constante (RPE 6-7), alternando trote y power hike según la pendiente. Con más de 12-15 % de pendiente, el power hike es más eficiente que trotar. Las bajadas, a ritmo de carrera pero controladas: el objetivo es que el cuádriceps aprenda, no que se destruya. Practica comer en movimiento: 1 GU a los 40 min aunque la sesión sea corta. |
 | Viernes 25 dic | 6 km fáciles + 6 strides (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -258,11 +268,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 28 dic | Tren superior A · Fuerza · descarga | Dominadas lastradas (agarre prono) 3×5-6; Fondos lastrados 3×6-8; Press de hombro con mancuernas 2×8-10; Remo a una mano con mancuerna 2×8-10 por lado; Curl de bíceps con mancuernas 2×8-10; Elevaciones laterales 1×12-15 |
-| Lunes 28 dic | Core A · Estabilidad para correr · descarga | Dead bug 2×8 por lado; Plancha lateral 2×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 2×30-40 m por lado; Bird dog con pausa 2×8 por lado |
+| Lunes 28 dic | Descanso total |  |
 | Martes 29 dic | 5 × 1 km a ritmo umbral (T) (10 km) | 5 × 1 km a 5:12/km (pulso de referencia 156-166 lpm). Recuperación: 1 min de trote suave. RPE 7 de 10: "cómodamente duro". Puedes decir frases cortas, no conversar. Todas las repeticiones al mismo ritmo. Si la última sale más de 5 s/km lenta, empezaste rápido. Enfriamiento: 2 km muy suaves. |
 | Martes 29 dic | Piernas · Ligera · tarde | Sentadilla búlgara 2×6 por lado; Peso muerto rumano 2×6; Elevación de talones 2×12 por lado |
+| Martes 29 dic | Core A · Estabilidad para correr · descarga · tarde | Dead bug 2×8 por lado; Plancha lateral 2×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 2×30-40 m por lado; Bird dog con pausa 2×8 por lado |
 | Miércoles 30 dic | 8 km fáciles (8 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 30 dic | Tren superior A · Fuerza · descarga | Dominadas lastradas (agarre prono) 3×5-6; Fondos lastrados 3×6-8; Press de hombro con mancuernas 2×8-10; Remo a una mano con mancuerna 2×8-10 por lado; Curl de bíceps con mancuernas 2×8-10; Elevaciones laterales 1×12-15 |
 | Miércoles 30 dic | Core B · Abdomen · descarga | Elevaciones de piernas colgado 2×8-12; Hollow hold 2×20-40 s; Plancha Copenhague 2×15-25 s por lado; Giros rusos con mancuerna 2×20 totales |
 | Jueves 31 dic | 9 km El Espino · ~400 m D+ · suave (9 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Todo a ritmo cómodo por pulso (126-142 lpm). Camina las cuestas fuertes. Hoy solo se acumula tiempo en el terreno. |
 | Viernes 1 ene | 5 km fáciles · opcional (Año Nuevo) (5 km) · opcional | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
@@ -278,11 +289,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 4 ene | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 4 ene | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 4 ene | Descanso total |  |
 | Martes 5 ene | 4 × 2 km a ritmo umbral (T) (13 km) | 4 × 2 km a 5:12/km (pulso de referencia 156-166 lpm). Recuperación: 2 min de trote suave. RPE 7 de 10: "cómodamente duro". Puedes decir frases cortas, no conversar. Todas las repeticiones al mismo ritmo. Si la última sale más de 5 s/km lenta, empezaste rápido. Enfriamiento: 2 km muy suaves. |
 | Martes 5 ene | Piernas · Mantenimiento · tarde | Sentadilla búlgara con mancuernas 2×5 por lado; Peso muerto rumano 2×6; Step-down excéntrico 2×6 por lado; Elevación de talones a una pierna 2×10 por lado; Saltos pogo 2×15 |
+| Martes 5 ene | Core A · Estabilidad para correr · tarde | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 6 ene | 11 km fáciles (11 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 6 ene | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 6 ene | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 7 ene | 13 km El Espino · ~800 m D+ · simulación de carrera (13 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Simulación de Ultravolcanes (21 km con ~1,200 m D+, unos 57 m por km): repite la subida más larga de El Espino las veces necesarias para sumar el desnivel de hoy. Sube a esfuerzo constante (RPE 6-7), alternando trote y power hike según la pendiente. Con más de 12-15 % de pendiente, el power hike es más eficiente que trotar. Las bajadas, a ritmo de carrera pero controladas: el objetivo es que el cuádriceps aprenda, no que se destruya. Practica comer en movimiento: 1 GU a los 40 min aunque la sesión sea corta. Es tu sesión de subida más grande: 2/3 del desnivel de Ultravolcanes en 13 km. |
 | Viernes 8 ene | 5 km fáciles + 6 strides (5 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -296,11 +308,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 11 ene | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 11 ene | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 11 ene | Descanso total |  |
 | Martes 12 ene | 6 × 1 km a ritmo umbral (T) (12 km) | 6 × 1 km a 5:12/km (pulso de referencia 156-166 lpm). Recuperación: 1 min de trote suave. RPE 7 de 10: "cómodamente duro". Puedes decir frases cortas, no conversar. Todas las repeticiones al mismo ritmo. Si la última sale más de 5 s/km lenta, empezaste rápido. Enfriamiento: 2 km muy suaves. |
 | Martes 12 ene | Piernas · Mantenimiento · tarde | Sentadilla búlgara con mancuernas 2×5 por lado; Peso muerto rumano 2×6; Step-down excéntrico 2×6 por lado; Elevación de talones a una pierna 2×10 por lado; Saltos pogo 2×15 |
+| Martes 12 ene | Core A · Estabilidad para correr · tarde | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 13 ene | 10 km fáciles (10 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 13 ene | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 13 ene | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 14 ene | 10 km El Espino · ~550 m D+ · bajadas técnicas (10 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Dentro del recorrido: 4 bajadas técnicas de 2-3 min a ritmo decidido (no frenando), subiendo caminando entre cada una. Técnica: cadencia alta, pasos cortos, mirada 3-4 m adelante, brazos abiertos como estabilizadores. Es entrenamiento excéntrico para el cuádriceps: puede dejar agujetas 1-2 días. Por eso el viernes es fácil. Última sesión de bajadas antes de Ultravolcanes: técnica, no velocidad. |
 | Viernes 15 ene | 5 km fáciles + 6 strides (5 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -316,10 +329,11 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 18 ene | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 18 ene | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 18 ene | Descanso total |  |
 | Martes 19 ene | 3 × 2 km a ritmo maratón (10 km) | 3 × 2 km a 5:34/km con 2 min de trote. Pulso de referencia a ritmo M: 142-156 lpm. Con calor, manda el pulso. Enfriamiento: 1-2 km suaves. |
+| Martes 19 ene | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 20 ene | 8 km fáciles (8 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 20 ene | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 20 ene | Core B · Abdomen · descarga | Elevaciones de piernas colgado 2×8-12; Hollow hold 2×20-40 s; Plancha Copenhague 2×15-25 s por lado; Giros rusos con mancuerna 2×20 totales |
 | Jueves 21 ene | 6 km El Espino · activación (6 km) | Fuera de las repeticiones: ritmo fácil por pulso (126-142 lpm). Todo a ritmo cómodo por pulso (126-142 lpm). Camina las cuestas fuertes. Hoy solo se acumula tiempo en el terreno. Al final: 4 × 30 s de subida a RPE 7 con recuperación completa. |
 | Viernes 22 ene | 4 km fáciles + 6 strides (4 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -335,10 +349,11 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 25 ene | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
-| Lunes 25 ene | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
+| Lunes 25 ene | Descanso total |  |
 | Martes 26 ene | 6 km muy suaves (o 40 min de bici o caminata) (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. Pulso por debajo de <126 lpm si puedes; si no, el extremo bajo de 126-142 lpm. |
+| Martes 26 ene | Core A · Estabilidad para correr | Dead bug 3×8 por lado; Plancha lateral 3×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 3×30-40 m por lado; Bird dog con pausa 3×8 por lado |
 | Miércoles 27 ene | 8 km fáciles (8 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 27 ene | Tren superior A · Fuerza | Dominadas lastradas (agarre prono) 4×5-6; Fondos lastrados 4×6-8; Press de hombro con mancuernas 3×8-10; Remo a una mano con mancuerna 3×8-10 por lado; Curl de bíceps con mancuernas 3×8-10; Elevaciones laterales 2×12-15 |
 | Miércoles 27 ene | Core B · Abdomen | Elevaciones de piernas colgado 3×8-12; Hollow hold 3×20-40 s; Plancha Copenhague 3×15-25 s por lado; Giros rusos con mancuerna 3×20 totales |
 | Jueves 28 ene | 2 × 4 km a ritmo maratón (13 km) | 2 × 4 km a 5:34/km con 1 km suave. Pulso de referencia a ritmo M: 142-156 lpm. Con calor, manda el pulso. Enfriamiento: 1-2 km suaves. |
 | Viernes 29 ene | 6 km fáciles + 6 strides (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -354,11 +369,12 @@
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 1 feb | Tren superior A · Fuerza · taper | Dominadas lastradas (agarre prono) 2×5-6; Fondos lastrados 2×6-8; Press de hombro con mancuernas 2×8-10; Remo a una mano con mancuerna 2×8-10 por lado; Curl de bíceps con mancuernas 2×8-10; Elevaciones laterales 1×12-15 |
-| Lunes 1 feb | Core A · Estabilidad para correr · taper | Dead bug 2×8 por lado; Plancha lateral 2×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 2×30-40 m por lado; Bird dog con pausa 2×8 por lado |
+| Lunes 1 feb | Descanso total |  |
 | Martes 2 feb | 5 × 1 km a ritmo umbral (T) (11 km) | 5 × 1 km a 5:12/km (pulso de referencia 156-166 lpm). Recuperación: 2 min de trote suave. RPE 7 de 10: "cómodamente duro". Puedes decir frases cortas, no conversar. Todas las repeticiones al mismo ritmo. Si la última sale más de 5 s/km lenta, empezaste rápido. Enfriamiento: 2 km muy suaves. |
 | Martes 2 feb | Piernas · Ligera · tarde | Sentadilla búlgara 2×6 por lado; Peso muerto rumano 2×6; Elevación de talones 2×12 por lado |
+| Martes 2 feb | Core A · Estabilidad para correr · taper · tarde | Dead bug 2×8 por lado; Plancha lateral 2×30-45 s por lado; Caminata con mancuerna en una mano (suitcase carry) 2×30-40 m por lado; Bird dog con pausa 2×8 por lado |
 | Miércoles 3 feb | 9 km fáciles (9 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
+| Miércoles 3 feb | Tren superior A · Fuerza · taper | Dominadas lastradas (agarre prono) 2×5-6; Fondos lastrados 2×6-8; Press de hombro con mancuernas 2×8-10; Remo a una mano con mancuerna 2×8-10 por lado; Curl de bíceps con mancuernas 2×8-10; Elevaciones laterales 1×12-15 |
 | Miércoles 3 feb | Core B · Abdomen · taper | Elevaciones de piernas colgado 2×8-12; Hollow hold 2×20-40 s; Plancha Copenhague 2×15-25 s por lado; Giros rusos con mancuerna 2×20 totales |
 | Jueves 4 feb | 5 km a ritmo maratón (10 km) | 5 km continuos a 5:34/km. Pulso de referencia a ritmo M: 142-156 lpm. Con calor, manda el pulso. Enfriamiento: 1-2 km suaves. |
 | Viernes 5 feb | 6 km fáciles + 6 strides (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Al terminar: 6 strides de 20 s, acelerando progresivamente hasta ~90 % con técnica suelta. Recupera caminando 40-60 s entre cada uno. |
@@ -370,12 +386,13 @@
 
 **Semana de carrera** · 67.2 km
 
-> Viernes y sábado: carga de carbohidratos (8-10 g/kg al día, ≈620-770 g). Baja fibra y grasa. Último gimnasio: el lunes. Toda la semana acuéstate 30 min antes cada noche: el sábado a las 7:30-8:00 pm, alarma a la 1:30 am.
+> Viernes y sábado: carga de carbohidratos (8-10 g/kg al día, ≈620-770 g). Baja fibra y grasa. Último gimnasio: el martes. Toda la semana acuéstate 30 min antes cada noche: el sábado a las 7:30-8:00 pm, alarma a la 1:30 am.
 
 | Día | Sesión | Detalle |
 |---|---|---|
-| Lunes 8 feb | Tren superior A · Fuerza · taper | Dominadas lastradas (agarre prono) 2×5-6; Fondos lastrados 2×6-8; Press de hombro con mancuernas 2×8-10; Remo a una mano con mancuerna 2×8-10 por lado; Curl de bíceps con mancuernas 2×8-10; Elevaciones laterales 1×12-15 |
+| Lunes 8 feb | Descanso total |  |
 | Martes 9 feb | 2 × 2 km a ritmo maratón + 4 strides (9 km) | 2 × 2 km a 5:34/km con 2 min de trote. 4 strides de 20 s al final. Pulso de referencia a ritmo M: 142-156 lpm. Con calor, manda el pulso. Enfriamiento: 1-2 km suaves. |
+| Martes 9 feb | Tren superior A · Fuerza · taper | Dominadas lastradas (agarre prono) 2×5-6; Fondos lastrados 2×6-8; Press de hombro con mancuernas 2×8-10; Remo a una mano con mancuerna 2×8-10 por lado; Curl de bíceps con mancuernas 2×8-10; Elevaciones laterales 1×12-15 |
 | Miércoles 10 feb | 6 km fáciles (6 km) | Ritmo fácil 6:15-6:52/km o pulso 126-142 lpm. Debes poder hablar en frases completas. Asfalto plano o con ondulaciones suaves. Termina sintiéndote mejor que cuando empezaste. |
 | Jueves 11 feb | 6 km con 2 km a ritmo maratón (6 km) | 2 km a 5:34/km en la mitad del rodaje. Pulso de referencia a ritmo M: 142-156 lpm. Con calor, manda el pulso. Enfriamiento: 1-2 km suaves. |
 | Viernes 12 feb | Descanso · carga de carbohidratos (día 1) |  |

@@ -14,7 +14,7 @@ export const ROUTINES = {
     claves: [
       "Descanso: 2-3 min entre series de dominadas y fondos; 90 s en el resto.",
       "Progresión: cuando completes todas las series en el tope del rango de repeticiones con RIR 2, sube 5 lb en el cinturón o en las mancuernas.",
-      "Va en un día SIN carrera (lunes) para no sumar fatiga a las sesiones clave.",
+      "Va el miércoles después del rodaje fácil: el tren superior casi no interfiere con las piernas, así que no resta a las sesiones clave.",
     ],
     exercises: [
       { id: "pullw", name: "Dominadas lastradas (agarre prono)", sets: 4, reps: "5-6", load: "+25 lb", note: "RIR 2. Pecho a la barra, bajada controlada de 2 s. Cuando hagas 4×6 limpias: +5 lb." },

@@ -7,7 +7,7 @@ export default function Header({ now }) {
       <div>
         <div className="eyebrow">ALVARO · CICLO 2026-27</div>
         <h1 className="title">TRAIL + 42K</h1>
-        <div className="subtitle">17 semanas · 5 días de carrera · 4 días de fuerza</div>
+        <div className="subtitle">17 semanas · 5 días de carrera · 2 de descanso total</div>
       </div>
       <div className="countdowns">
         {RACES.map((r) => {
