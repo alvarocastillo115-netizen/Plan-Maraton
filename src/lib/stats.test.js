@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { totals, weekKmDone, kmDoneFor, paceFromLog, plannedKm } from "./stats.js";
+import { totals, weekKmDone, kmDoneFor, paceFromLog, plannedKm, dashboard } from "./stats.js";
 import { loadState, saveState, parseBackup, emptyState } from "./storage.js";
 import { locate } from "./dates.js";
 import { WEEKS } from "../data/plan.js";
@@ -77,5 +77,36 @@ describe("ubicación en el calendario", () => {
     expect(locate(new Date(2027, 0, 24), 17)).toMatchObject({ status: "during", week: 14, day: "sun" });
     expect(locate(new Date(2027, 1, 14), 17)).toMatchObject({ status: "during", week: 17, day: "sun" });
     expect(locate(new Date(2027, 1, 15), 17)).toMatchObject({ status: "after" });
+  });
+});
+
+describe("dashboard", () => {
+  const tue = WEEKS[0].days.tue; // fartlek + piernas + core A (martes 20 oct)
+  const wedRun = WEEKS[0].days.wed[0];
+  const st = {
+    ...emptyState(),
+    done: { [tue[0].id]: true, [tue[1].id]: true, [wedRun.id]: true },
+    logs: { [tue[0].id]: { km: "7.4", rpe: 8 }, [wedRun.id]: { rpe: 4 }, [tue[1].id]: { ex: { bulg: "2×12 kg · 10,10,10" } } },
+  };
+
+  it("la adherencia no penaliza las sesiones de hoy que aún no se hacen", () => {
+    const d = dashboard(WEEKS, st, new Date(2026, 9, 21)); // miércoles
+    // vencidas: martes (3) + miércoles hecho (1); core A del martes falta
+    expect(d.due).toBe(4);
+    expect(d.dueDone).toBe(3);
+    expect(d.adherence).toBe(75);
+  });
+
+  it("antes de empezar no hay adherencia", () => {
+    expect(dashboard(WEEKS, emptyState(), new Date(2026, 9, 16)).adherence).toBeNull();
+  });
+
+  it("últimos 7 días, RPE medio y última carga", () => {
+    const d = dashboard(WEEKS, st, new Date(2026, 9, 21));
+    expect(d.last7.km).toBeCloseTo(7.4 + wedRun.km);
+    expect(d.last7.sessions).toBe(3);
+    expect(d.last7.rpe).toBe(6);
+    expect(d.lastLoad("bulg").value).toBe("2×12 kg · 10,10,10");
+    expect(d.lastLoad("pullw")).toBeNull();
   });
 });

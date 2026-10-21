@@ -2,7 +2,24 @@ import { fillTokens } from "../lib/paces.js";
 import { fmtKm } from "../lib/stats.js";
 import { routineFor } from "../data/strength.js";
 
-const CHIP = { asfalto: "ASFALTO", trail: "TRAIL", fuerza: "FUERZA", descanso: "DESCANSO" };
+// Categoría visual de cada sesión: define el color de la tarjeta y la etiqueta
+export const CATEGORIES = {
+  asfalto: "ASFALTO",
+  trail: "TRAIL",
+  superior: "SUPERIOR",
+  piernas: "PIERNAS",
+  core: "CORE",
+  descanso: "DESCANSO",
+};
+
+export function categoryOf(s) {
+  if (s.kind === "strength") {
+    if (s.routine.startsWith("upper")) return "superior";
+    if (s.routine.startsWith("legs")) return "piernas";
+    return "core";
+  }
+  return s.surface; // asfalto · trail · descanso
+}
 
 export function metaFor(s) {
   if (s.kind === "rest") return "DESCANSO";
@@ -23,9 +40,10 @@ export default function SessionRow({ s, done, log, tokens, onOpen, onToggle }) {
   const isRace = s.kind === "race";
   const open = () => !isRest && onOpen(s.id);
   const realKm = done && log?.km ? ` · ✓ ${log.km} km` : "";
+  const cat = categoryOf(s);
   return (
     <div
-      className={`sess ${done ? "done" : ""} ${isRace ? "race" : ""} ${isRest ? "rest" : ""}`}
+      className={`sess cat-${cat} ${done ? "done" : ""} ${isRace ? "race" : ""} ${isRest ? "rest" : ""}`}
       role={isRest ? undefined : "button"}
       tabIndex={isRest ? undefined : 0}
       onClick={open}
@@ -33,7 +51,7 @@ export default function SessionRow({ s, done, log, tokens, onOpen, onToggle }) {
         if (!isRest && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); open(); }
       }}
     >
-      <span className={`chip ${s.surface}`}>{isRace ? "CARRERA" : CHIP[s.surface]}</span>
+      <span className={`chip ${cat}`}>{isRace ? "CARRERA" : CATEGORIES[cat]}</span>
       <div className="sess-body">
         <div className="sess-meta">{metaFor(s)}{realKm}</div>
         <div className="sess-title">{fillTokens(s.title, tokens)}</div>

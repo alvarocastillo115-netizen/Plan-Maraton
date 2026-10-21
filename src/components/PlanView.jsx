@@ -3,6 +3,7 @@ import { fmtRange, locate } from "../lib/dates.js";
 import { plannedKm, plannedDplus, weekKmDone, weekComplete, fmtKm } from "../lib/stats.js";
 import { fillTokens } from "../lib/paces.js";
 import WeekDays from "./WeekDays.jsx";
+import { CATEGORIES } from "./SessionRow.jsx";
 
 const RACE_WEEKS = { 14: "⛰️", 17: "🏁" };
 
@@ -69,6 +70,11 @@ export default function PlanView({ weeks, week, setWeek, now, state, training, o
           {cur.status === "during" && cur.week !== week && (
             <button className="btn primary" onClick={() => setWeek(cur.week)}>Semana actual</button>
           )}
+        </div>
+        <div className="legend" style={{ margin: "6px 0 10px" }}>
+          {Object.entries(CATEGORIES).map(([k, label]) => (
+            <span key={k}><span className="dot" style={{ background: `var(--${k})` }} /> {label}</span>
+          ))}
         </div>
         <p className="hint">Toca cualquier sesión para ver el detalle completo y registrar lo que hiciste.</p>
         <WeekDays week={w} state={state} tokens={training.tokens} now={now} onOpen={onOpen} onToggle={onToggle} />

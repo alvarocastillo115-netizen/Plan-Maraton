@@ -108,7 +108,7 @@ export default function App() {
     <div className="page">
       <Header now={now} />
 
-      {tab === "hoy" && <TodayView {...common} goToWeek={goToWeek} />}
+      {tab === "hoy" && <TodayView {...common} goToWeek={goToWeek} goToTab={setTab} />}
       {tab === "plan" && <PlanView {...common} week={week} setWeek={setWeek} />}
       {tab === "ritmos" && (
         <PacesView settings={settings} training={training} onChange={setSettings} onReset={() => setState((s) => ({ ...s, settings: null }))} />

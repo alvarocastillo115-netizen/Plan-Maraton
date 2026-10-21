@@ -3,7 +3,7 @@ import { DAY_LONG, fmtDate, sessionDate } from "../lib/dates.js";
 import { fillTokens } from "../lib/paces.js";
 import { fmtKm, paceFromLog } from "../lib/stats.js";
 import { routineFor } from "../data/strength.js";
-import { metaFor } from "./SessionRow.jsx";
+import { metaFor, categoryOf } from "./SessionRow.jsx";
 
 const INTENSITY = { E: "Fácil", M: "Ritmo maratón", T: "Umbral", I: "Intervalos", mix: "Cuestas / mixto" };
 
@@ -46,7 +46,7 @@ export default function SessionModal({ entry, state, training, onClose, onToggle
 
   return (
     <div className="overlay" onClick={onClose}>
-      <div className="modal" onClick={(e) => e.stopPropagation()} role="dialog" aria-modal="true" aria-labelledby="m-title">
+      <div className="modal" style={{ "--cat": `var(--${categoryOf(s)})` }} onClick={(e) => e.stopPropagation()} role="dialog" aria-modal="true" aria-labelledby="m-title">
         <div className="m-head">
           <div>
             <div className="m-eyebrow">
